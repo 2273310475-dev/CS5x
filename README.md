@@ -1,2 +1,2 @@
-# CS5x
+# CS50x
 Solutions and notes for Harvard CS50x
